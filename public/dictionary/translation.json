@@ -1,0 +1,32 @@
+{
+    "en": {
+        "translation": {
+          "Title": "The easiest way to manage team projects & tasks",
+          "Subtitle":"Take a tour of work management platform to see how you can do more of your best work.",
+          "ButtonTitle":"Know More"
+
+        }
+      },
+      "uz": {
+        "translation": {
+          "Title": "Jamoa loyihalari va vazifalarini boshqarishning eng oson yo'li",
+          "Subtitle":"Qanday qilib eng yaxshi ishingizdan ko'proq narsani qilishingiz mumkinligini ko'rish uchun ishni boshqarish platformasiga sayohat qiling.",
+          "ButtonTitle":"Ko'proq bilish"
+        }
+      },
+      "ru": {
+        "translation": {
+          "Title": "Самый простой способ управлять командными проектами и задачами",
+          "Subtitle":"Ознакомьтесь с платформой управления работой, чтобы узнать, как вы можете выполнять свою работу лучше.",
+          "ButtonTitle":"Узнать больше"
+
+        }
+      },
+      "fr": {
+        "translation": {
+          "Title": "Le moyen le plus simple de gérer les projets et les tâches d'équipe",
+          "Subtitle":"Faites le tour de la plateforme de gestion du travail pour voir comment vous pouvez donner le meilleur de vous-même.",
+          "ButtonTitle":"Savoir plus"
+        }
+      }
+}

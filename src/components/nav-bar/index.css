@@ -1,0 +1,11 @@
+.nav-wrapper{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

@@ -1,0 +1,19 @@
+.button-wrapper button {
+    width: 200px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    background: #0061FE;
+    color: #FFF;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+    border: none;
+    cursor: pointer;
+}
+.button-wrapper{
+    margin-top: 20px;
+}
